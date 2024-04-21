@@ -4,4 +4,5 @@ Tries area special kind of Trees where in the root child is left empty and it ca
 - Tries allow us to store thousands and millions of words in minimal space, affording us fast look ups 
 
 This code's aim is to demonstrate how Tries can be used to inplement auto completion. 
-All the methods in here are instrumental to this aim and are pretty much explanatory, I added notes om each method so it's like reading a manual, enjoy. 
+All the methods in here are instrumental to this aim and are pretty much explanatory.
+I added notes on each method so it's as straightforward as reading a manual, enjoy. 
